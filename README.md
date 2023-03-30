@@ -19,6 +19,6 @@ Credit goes to UCI for providing the assignment.
 #
 N/A
 ## Deployment 
-(https://nathaniel-note-taker.herokuapp.com/)
+(https://drive.google.com/file/d/1E4iaYFAQhRMbAFsVGYl-pjkt1sr1TTId/view?usp=sharing)
 ![SiteImage](images/employeetrackerpic.png)
 ![SiteImage](images/employeetrackerpic2.png)
