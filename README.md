@@ -20,4 +20,4 @@ N/A
 ## Deployment 
 (https://nathaniel-note-taker.herokuapp.com/)
 ![SiteImage](images/employeetrackerpic.png)
-![SiteImage](images/employeetracker2.png)
+![SiteImage](images/employeetrackerpic2.png)
